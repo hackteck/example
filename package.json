@@ -1,0 +1,17 @@
+{
+  "name": "hackteck-demo",
+  "version": "1.0.0",
+  "description": "My skills demonstration",
+  "scripts": {
+    "start": "echo NOT IMPLEMENTED",
+    "test": "node test/",
+    "build": "node-gyp rebuild"
+  },
+  "gypfile": true,
+  "dependencies": {
+    "nan": "^2.14.0"
+  },
+  "devDependencies": {
+    "tap": "^14.10.6"
+  }
+}
